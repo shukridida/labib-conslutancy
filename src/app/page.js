@@ -22,7 +22,7 @@ export default function Home() {
 
         
       </section>
-
+      
       {/* Services Section */}
       <section className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mt-16 px-6 max-w-6xl">
         <div className="p-6 bg-gray-800 rounded-xl shadow-lg">
